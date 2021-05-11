@@ -96,13 +96,13 @@
   content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
   white-space: initial; }
 
-/* Kit */
-.button.button-kit {
+/* whatsapp */
+.button.button-whatsapp {
   color: #FFFFFF;
   background-color: #10c694 }
 .button.button-kit:hover,
 .button.button-kit:hover:before {
-    content: 'Aquí vas a encontrar la lista completa y actualizada de todo el hardware que uso para trabajar y hacer mis videos de YouTube.';
+    content: 'Aquí puedes contactar con nosotros para hacer tus pedidos o realizar tus consultas!';
     white-space: initial; }
 
 /* YouTube */
