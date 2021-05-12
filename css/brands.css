@@ -93,7 +93,7 @@
   background-color: #7b16ff }
 .button.button-recetas:hover,
 .button.button-recetas:hover:before {
-  content: 'Aquí podrás encontrar algunas de nuestras recetas y muchas más!';
+  content: 'Aquí podrás encontrar algunas de nuestras recetas y mucho más!';
   white-space: initial; }
 
 /* whatsapp */
@@ -111,7 +111,7 @@
   background-color: #FF0000 }
 .button.button-positivo:hover,
 .button.button-positivo:hover:before {
-    content: 'Aqui podrás encontrar todo el contenido positivo de Porcion di Cielo <3, para que puedas descargarlo y compartirlo con las personas que amas!';
+    content: 'También te dejamos todo el contenido positivo de Porcion di Cielo <3, para que puedas descargarlo y compartirlo con las personas que amas!';
     white-space: initial; }
 
 /* Slides */
