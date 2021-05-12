@@ -88,12 +88,12 @@
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Slack */
-.button.button-slack {
+.button.button-recetas {
   color: #FFFFFF;
   background-color: #7b16ff }
-.button.button-slack:hover,
-.button.button-slack:hover:before {
-  content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
+.button.button-recetas:hover,
+.button.button-recetas:hover:before {
+  content: 'Aquí podrás encontrar algunas de nuestras recetas y muchas más!';
   white-space: initial; }
 
 /* whatsapp */
@@ -106,12 +106,12 @@
     white-space: initial; }
 
 /* YouTube */
-.button.button-youtube {
+.button.button-positivo {
   color: #FFFFFF;
   background-color: #FF0000 }
-.button.button-youtube:hover,
-.button.button-youtube:hover:before {
-    content: 'Este es mi segundo canal de YouTube, donde subo vlogs y contenido más personal :) No, no ese tipo de contenido.';
+.button.button-positivo:hover,
+.button.button-positivo:hover:before {
+    content: 'Aqui podrás encontrar todo el contenido positivo de Porcion di Cielo <3, para que puedas descargarlo y compartirlo con las personas que amas!';
     white-space: initial; }
 
 /* Slides */
@@ -124,12 +124,12 @@
     white-space: initial; }
 
 /* Mercha */
-.button.button-mercha {
+.button.button-mirada {
   color: #000000;
   background-color: #fffc00 }
-.button.button-mercha:hover,
-.button.button-mercha:hover:before {
-    content: 'Esta es mi tienda de merchandising, puedes encontrar remeras/camisetas/poleras y otro tipo de cosas :)';
+.button.button-mirada:hover,
+.button.button-mirada:hover:before {
+    content: 'Esta es una cuenta amiga que comparte el mejor contenido positivo acerca de lo lindo de la vida y el amor de Dios :)';
     white-space: initial; }
 
 /* Reddit */
